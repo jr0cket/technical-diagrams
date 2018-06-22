@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="84.406273mm"
+   height="47.143951mm"
+   viewBox="0 0 84.406273 47.143951"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+   sodipodi:docname="area51-components-concept.svg"
+   inkscape:export-filename="C:\Users\js92523\projects\technical-diagrams\area51-components-concept.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1"
+     inkscape:cx="61.500929"
+     inkscape:cy="221.06294"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="4"
+     fit-margin-left="4"
+     fit-margin-right="4"
+     fit-margin-bottom="4"
+     inkscape:window-width="1821"
+     inkscape:window-height="1014"
+     inkscape:window-x="3928"
+     inkscape:window-y="1"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-68.87911,-181.34561)">
+    <g
+       id="g1181">
+      <rect
+         ry="4.8944626"
+         y="186.40395"
+         x="73.937447"
+         height="16.43141"
+         width="35.407551"
+         id="rect972-7"
+         style="fill:#ffffff;stroke:#00c7ff;stroke-width:2.11666656;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         id="text1012"
+         y="197.31628"
+         x="77.174599"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:6.3499999px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-size:8.46666622px;stroke-width:0.26458332"
+           y="197.31628"
+           x="77.174599"
+           id="tspan1010"
+           sodipodi:role="line">browse</tspan></text>
+    </g>
+    <g
+       id="g1165"
+       transform="translate(-10.862306,48.375782)">
+      <rect
+         ry="4.8944626"
+         y="158.62404"
+         x="123.6818"
+         height="16.43141"
+         width="35.407555"
+         id="rect972-7-1"
+         style="fill:#ffffff;stroke:#008000;stroke-width:2.11666656;stroke-miterlimit:4;stroke-dasharray:none" />
+      <text
+         id="text1012-1"
+         y="169.66338"
+         x="131.13972"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:6.3499999px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-size:8.46666622px;stroke-width:0.26458332"
+           y="169.66338"
+           x="131.13972"
+           id="tspan1010-2"
+           sodipodi:role="line">store</tspan></text>
+    </g>
+    <g
+       id="g1186"
+       transform="translate(-8.9418945e-6)">
+      <rect
+         ry="4.8944626"
+         y="186.40395"
+         x="112.8195"
+         height="16.43141"
+         width="35.407555"
+         id="rect972-7-8"
+         style="fill:#ffffff;stroke:#e700b4;stroke-width:2.11666656;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         id="text1012-9"
+         y="196.62625"
+         x="119.00047"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:6.3499999px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-size:8.46666622px;stroke-width:0.26458332"
+           y="196.62625"
+           x="119.00047"
+           id="tspan1010-8"
+           sodipodi:role="line">query</tspan></text>
+    </g>
+    <g
+       id="g1150"
+       transform="translate(-0.29949506)">
+      <g
+         id="g1155"
+         transform="translate(-49.444863,8.0180858)">
+        <rect
+           style="fill:#ffffff;stroke:#d40000;stroke-width:2.11666656;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect972-7-1-8"
+           width="35.407558"
+           height="16.43141"
+           x="123.6818"
+           y="198.98174"
+           ry="4.8944626" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:6.3499999px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="127.50997"
+           y="210.32164"
+           id="text1012-5"><tspan
+             sodipodi:role="line"
+             id="tspan1010-7"
+             x="127.50997"
+             y="210.32164"
+             style="font-size:8.46666622px;stroke-width:0.26458332">service</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>
