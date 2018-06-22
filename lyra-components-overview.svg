@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="126.97384mm"
+   height="156.07799mm"
+   viewBox="0 0 126.97384 156.07799"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+   sodipodi:docname="lyra-components-overview.svg"
+   inkscape:export-filename="C:\Users\js92523\projects\technical-diagrams\lyra-components-overview.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="-19.321171"
+     inkscape:cy="68.942398"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="2560"
+     inkscape:window-height="1057"
+     inkscape:window-x="3832"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     fit-margin-top="8"
+     fit-margin-left="8"
+     fit-margin-right="8"
+     fit-margin-bottom="8" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-20.801784,29.558337)">
+    <rect
+       id="rect3699"
+       width="108.78556"
+       height="137.88971"
+       x="29.895922"
+       y="-20.464199"
+       style="fill:#ffffff;stroke:#000000;stroke-width:2.18827534;stroke-miterlimit:4;stroke-dasharray:none"
+       ry="6.230773" />
+    <g
+       id="g4749"
+       transform="translate(171.97917,-208.94542)">
+      <rect
+         ry="4.0711093"
+         style="fill:#ffffff;stroke:#800080;stroke-width:2.11666656;stroke-miterlimit:4;stroke-dasharray:none"
+         y="300.65009"
+         x="-130.90944"
+         height="15.378421"
+         width="86.437935"
+         id="rect3699-2-3" />
+      <text
+         id="text4523-0"
+         y="312.36624"
+         x="-126.20702"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="stroke-width:0.26458332"
+           y="312.36624"
+           x="-126.20702"
+           id="tspan4521-43"
+           sodipodi:role="line">Tibco Consumer</tspan></text>
+    </g>
+    <g
+       id="g4754"
+       transform="translate(171.97917,-336.02084)">
+      <rect
+         ry="4.0711093"
+         style="fill:#ffffff;stroke:#800080;stroke-width:2.11666656;stroke-miterlimit:4;stroke-dasharray:none"
+         y="326.35245"
+         x="-130.90944"
+         height="15.378421"
+         width="86.437935"
+         id="rect3699-2-3-9" />
+      <text
+         id="text4523-0-7"
+         y="336.79861"
+         x="-115.91051"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="stroke-width:0.26458332"
+           y="336.79861"
+           x="-115.91051"
+           id="tspan4521-43-0"
+           sodipodi:role="line">Status Page</tspan></text>
+    </g>
+    <g
+       id="g4744"
+       transform="translate(171.97917,-195.73509)">
+      <g
+         id="g4738">
+        <rect
+           id="rect3699-2-3-99"
+           width="86.437935"
+           height="15.378421"
+           x="-130.90944"
+           y="262.0965"
+           style="fill:#ffffff;stroke:#800080;stroke-width:2.11666656;stroke-miterlimit:4;stroke-dasharray:none"
+           ry="4.0711093" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="-117.34803"
+           y="273.82324"
+           id="text4523-56"><tspan
+             sodipodi:role="line"
+             id="tspan4521-4"
+             x="-117.34803"
+             y="273.82324"
+             style="stroke-width:0.26458332">Data Loader</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g4728"
+       transform="translate(171.97917,-121.67063)">
+      <rect
+         ry="4.0711093"
+         style="fill:#ffffff;stroke:#800080;stroke-width:2.11666656;stroke-miterlimit:4;stroke-dasharray:none"
+         y="162.68877"
+         x="-130.90944"
+         height="15.378421"
+         width="86.437935"
+         id="rect3699-2-3-99-6" />
+      <text
+         id="text4523-5"
+         y="174.41551"
+         x="-110.29515"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="stroke-width:0.26458332"
+           y="174.41551"
+           x="-110.29515"
+           id="tspan4521-5"
+           sodipodi:role="line">Rocks DB</tspan></text>
+    </g>
+    <g
+       id="g4838"
+       transform="translate(-13.24225,15.906948)">
+      <rect
+         ry="4.0711093"
+         style="fill:#ffffff;stroke:#800080;stroke-width:2.11666656;stroke-miterlimit:4;stroke-dasharray:none"
+         y="-0.23207197"
+         x="54.311985"
+         height="15.378421"
+         width="86.437935"
+         id="rect3699-2-3-9-6" />
+      <text
+         id="text4523-0-7-2"
+         y="10.584514"
+         x="75.948479"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="stroke-width:0.26458332"
+           y="10.584514"
+           x="75.948479"
+           id="tspan4521-43-0-2"
+           sodipodi:role="line">GraphQL</tspan></text>
+    </g>
+  </g>
+</svg>
