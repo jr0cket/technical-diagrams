@@ -1,6 +1,6 @@
-# Area51 Technical Diagrams
+# Technical Diagrams
 
-Visualising the processes and data flows of the software components in the Area51 project.
+Visualising the processes and data flows of the software components.
 
 Diagrams are created with [https://inkscape.org/](Inkscape), a free drawing tools for Windows, Linux and MacOSX.
 
